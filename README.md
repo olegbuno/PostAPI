@@ -13,12 +13,12 @@ Make sure you have Docker and Docker Compose installed on your system.
 
 1. Clone this repository:
   ```
-  git clone https://github.com/your_username/your_repository.git
+  git clone https://github.com/olegbuno/PostAPI.git
   ```
    
 2. Navigate to the project directory:
   ```
-  cd AssessmentSubmission
+  cd PostAPI
   ```
 
 3. Usage
